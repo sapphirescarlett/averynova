@@ -7,7 +7,7 @@ I'm Avery, a 14 y/o self-learning web developer. My projects consist mostly of w
 * ### Currently working on:
 
  - CusRound - A Chrome extension to replace the background of any website with yor own color or image
- - Account/LogIn system for [Expense Tracker](https://github.com/averynova/expense-tracker)
+ - Account/LogIn system for [Expense Tracker](https://github.com/averynova/expense-tracker/tree/auth)
 
 ## Contact Me
 
