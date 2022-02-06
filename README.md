@@ -1,6 +1,6 @@
 ## About Me
 I'm Avery, a 14 y/o self-learning web developer. My projects consist mostly of web applications.
----
+
 * ### Projects
  - [A fullstack expense tracker, React as frontend & express as backend](https://github.com/averynova/expense-tracker)
 
